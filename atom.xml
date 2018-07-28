@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dai08170.000webhostapp.com/"/>
-  <updated>2018-07-28T08:06:51.255Z</updated>
+  <updated>2018-07-28T15:51:31.706Z</updated>
   <id>http://dai08170.000webhostapp.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>设置disqus评论</title>
+    <link href="http://dai08170.000webhostapp.com/2018/07/28/hexo/"/>
+    <id>http://dai08170.000webhostapp.com/2018/07/28/hexo/</id>
+    <published>2018-07-28T12:39:39.141Z</published>
+    <updated>2018-07-28T15:51:31.706Z</updated>
+    
+    <content type="html"><![CDATA[<p>设置disqus评论<br><a href="http://disqus.com/" target="_blank" rel="noopener">http://disqus.com/</a><br><a href="http://help.writings.io/articles/3-disqus" target="_blank" rel="noopener">http://help.writings.io/articles/3-disqus</a><br><a href="http://chxt6896.github.io/blog/2011/12/07/blog-disqus.html" target="_blank" rel="noopener">http://chxt6896.github.io/blog/2011/12/07/blog-disqus.html</a><br>注册Disqus<br>到 <a href="http://disqus.com/" target="_blank" rel="noopener">http://disqus.com/</a> 注册 disqus 帐号。</p><p>注册 Disqus 帐号，用邮箱注册下就可以了，注册需要填写：Site URL，Site Name，Site Shortname。</p><p>提示：一个 disqus 帐号可以申请多个 Site Shortname。不同空间的文章 ID 有可能重合，所以请为不同的空间配置不同 Site Shortname。</p><p>设置Disqus<br>接下来会有一些简单的设置，比如语言；如果你有一些社交化工具，例如 twitter，也可以填上；还有一些评论的选项，例如过滤垃圾评论，回调评论等。</p><p>安装Disqus<br>安装，因为没有用到插件安装，所以选择的 Universal Code。所谓安装，其实就是将一段 js 代码嵌入到你的博客源代码里面。</p><p>在开始之前，你需要确认：</p><p>已经注册了 Disqus<br>有权限编辑网站上的代码<br>获取你的短域名，就是上面说的那个 Shortname<br>获取 js 代码。DisQus 已经为我们生成了这样的一段代码：</p><p><div id="disqus_thread"></div></p><p><script type="text/javascript"><br>    /<em> </em> <em> CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE </em> <em> </em>/<br>    var disqus_shortname = ‘longber’; // required: replace example with your forum shortname</p><pre><code>/* * * DON&apos;T EDIT BELOW THIS LINE * * */(function() {    var dsq = document.createElement(&apos;script&apos;); dsq.type = &apos;text/javascript&apos;; dsq.async = true;    dsq.src = &apos;//&apos; + disqus_shortname + &apos;.disqus.com/embed.js&apos;;    (document.getElementsByTagName(&apos;head&apos;)[0] || document.getElementsByTagName(&apos;body&apos;)[0]).appendChild(dsq);})();</code></pre><p></script></p><p><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript" target="_blank" rel="noopener">comments powered by Disqus.</a></noscript><br><a href="http://disqus.com" class="dsq-brlink" target="_blank" rel="noopener">comments powered by <span class="logo-disqus">Disqus</span></a><br>只需按照代码中的提示将 ‘example’ 替换为你的 Shortname ，然后将它嵌入到所需页面中，自此成功..</p><p>Vimwiki中设置<br>vimwiki.js中用”#no-comment”检查页面是否不允许评论，在不允许评论的wiki页中添加如下内容即可：</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;设置disqus评论&lt;br&gt;&lt;a href=&quot;http://disqus.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://disqus.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://help.writings.io/arti
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>今日头条公布放心购微头条</title>
@@ -44,7 +65,7 @@
     <link href="http://dai08170.000webhostapp.com/2018/07/28/2018-IT-Industry-1/"/>
     <id>http://dai08170.000webhostapp.com/2018/07/28/2018-IT-Industry-1/</id>
     <published>2018-07-27T14:00:00.000Z</published>
-    <updated>2018-07-28T08:07:17.466Z</updated>
+    <updated>2018-07-28T15:53:31.557Z</updated>
     
     <content type="html"><![CDATA[<p>The global information technology industry surpassed $4.5 trillion in 2017, according to the research consultancy IDC. If growth expectations materialize in the year ahead, spending will eclipse the $4.8 trillion mark.</p><p>The United States is the largest tech market in the world, representing 31% of the total, or approximately $1.5 trillion for 2018. In the U.S., as well as in many other countries, the tech sector is one of the most significant contributors to GDP. See CompTIA’s Cyberstates report for more detailed economic impact analysis.</p><p>In the aggregate, the Asia-Pacific region, which encompasses Japan, China, Australia, India, and surrounding countries, accounts for one-third of the total. APEC has increased its share of the global IT pie, driven by the rise of countries such as China and India, and the slower growth rates experienced in parts of Europe and other markets. By 2032, China is projected to claim the mantle of world’s largest economy.—–<a href="https://www.comptia.org/resources/it-industry-trends-analysis" target="_blank" rel="noopener">Comptia</a></p>]]></content>
     
