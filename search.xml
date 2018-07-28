@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F07%2F26%2Fhello-world-1%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[今日头条公布放心购微头条]]></title>
+    <url>%2F2018%2F07%2F28%2Ftoday%20news%20safty%20shoping%2F</url>
+    <content type="text"><![CDATA[微头条功能使用说明 一、 微头条介绍 微头条是今日头条全新打造的一款UGC产品，放心购商家可以通过微头条发布推广内容，完成对店铺或商品的营销，微头条内容发布后可以在今日头条APP“关注”频道和“微头条”频道内进行展示，从而推广自己放心购商品，实现粉丝互动，精准营销，增加商品变现手段。 二、 微头条操作步骤 1、 商家后台-微头条 2、 发布微头条：营销文案+商品链接+图片素材 三、 微头条优势 1、 商家可自己发布微头条推广商品，提高商品展示机会，增加订单来源；用户不用点开文章，即可看见商品的文字介绍、图片和商品链接，减少了商品打开的路径； 2、 微头条的强互动性，能更好圈粉，从而拥有更强的传播力，创造新的可能性： 商家可以通过社群、粉丝活动和福利等形式，增加粉丝粘性，将粉丝转化为忠实客户； 3、 微头条暂不收取佣金 四、 微头条发布提示 1、商家可以通过微头条发布店铺活动啦~每日可发布10条微头条内容 2、微头条将在头条内关注频道以及微头条页面展示，店铺的粉丝都能看到哦 3、微头条支持插入放心购商品、店铺链接，建议一条微头条内插入一条链接，切勿贪多。 4、发布的内容引起的粉丝互动越多，将在关注频道获得越多的展示机会。——今日头条]]></content>
   </entry>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F07%2F25%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[THE $4.8 TRILLION GLOBAL INFORMATION TECHNOLOGY (IT) INDUSTRY 2018年的4.8万亿美金的IT市场]]></title>
+    <url>%2F2018%2F07%2F28%2F2018-IT-Industry-1%2F</url>
+    <content type="text"><![CDATA[The global information technology industry surpassed $4.5 trillion in 2017, according to the research consultancy IDC. If growth expectations materialize in the year ahead, spending will eclipse the $4.8 trillion mark. The United States is the largest tech market in the world, representing 31% of the total, or approximately $1.5 trillion for 2018. In the U.S., as well as in many other countries, the tech sector is one of the most significant contributors to GDP. See CompTIA’s Cyberstates report for more detailed economic impact analysis. In the aggregate, the Asia-Pacific region, which encompasses Japan, China, Australia, India, and surrounding countries, accounts for one-third of the total. APEC has increased its share of the global IT pie, driven by the rise of countries such as China and India, and the slower growth rates experienced in parts of Europe and other markets. By 2032, China is projected to claim the mantle of world’s largest economy.—–Comptia]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Welcome to David dai Blog]]></title>
+    <url>%2F2018%2F07%2F26%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Daivd dai post with Hexo! This is David dai first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or can get more help on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
